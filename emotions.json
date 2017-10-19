@@ -1,0 +1,180 @@
+{
+    "angry": {
+        "aggressive": [
+            "provoked", 
+            "hostile"
+        ], 
+        "bitter": [
+            "indignant", 
+            "vioted"
+        ], 
+        "critical": [
+            "sceptical", 
+            "dismissive"
+        ], 
+        "distant": [
+            "withdrawn", 
+            "numb"
+        ], 
+        "frustrated": [
+            "infuriated", 
+            "annoyed"
+        ], 
+        "humiliated": [
+            "disrespected", 
+            "ridiculed"
+        ], 
+        "let down": [
+            "betrayed", 
+            "resentful"
+        ], 
+        "mad": [
+            "furious", 
+            "jealous"
+        ]
+    }, 
+    "bad": {
+        "bored": [
+            "indifferent", 
+            "apathetic"
+        ], 
+        "busy": [
+            "pressured", 
+            "rushed"
+        ], 
+        "stressed": [
+            "overwhelmed", 
+            "out of control"
+        ], 
+        "tired": [
+            "sleepy", 
+            "unfocussed"
+        ]
+    }, 
+    "disgusted": {
+        "awful": [
+            "nauseated", 
+            "detestable"
+        ], 
+        "disappointed": [
+            "appalled", 
+            "revolted"
+        ], 
+        "dissaproving": [
+            "judgemental", 
+            "embarrassed"
+        ], 
+        "repelled": [
+            "horrified", 
+            "hesitant"
+        ]
+    }, 
+    "fearful": {
+        "anxious": [
+            "ooverwhelmed", 
+            "worried"
+        ], 
+        "insecure": [
+            "inadequate", 
+            "inferior"
+        ], 
+        "rejected": [
+            "excluded", 
+            "persecuted"
+        ], 
+        "scared": [
+            "helpless", 
+            "frightened"
+        ], 
+        "threatened": [
+            "nervous", 
+            "exposed"
+        ], 
+        "weak": [
+            "worthless", 
+            "insignificant"
+        ]
+    }, 
+    "happy": {
+        "accepted": [
+            "respected", 
+            "valued"
+        ], 
+        "content": [
+            "free", 
+            "joyful"
+        ], 
+        "interested": [
+            "curious", 
+            "inquisitive"
+        ], 
+        "optimistic": [
+            "hopeful", 
+            "inspired"
+        ], 
+        "peaceful": [
+            "loving", 
+            "thankful"
+        ], 
+        "playful": [
+            "aroused", 
+            "cheeky"
+        ], 
+        "powerful": [
+            "courageous", 
+            "creative"
+        ], 
+        "proud": [
+            "successful", 
+            "confident"
+        ], 
+        "trusting": [
+            "sensitive", 
+            "intimate"
+        ]
+    }, 
+    "sad": {
+        "depressed": [
+            "inferior", 
+            "empty"
+        ], 
+        "despair": [
+            "grief", 
+            "powerless"
+        ], 
+        "guilty": [
+            "remorseful", 
+            "ashamed"
+        ], 
+        "hurt": [
+            "embarrassed", 
+            "dissapointed"
+        ], 
+        "lonely": [
+            "isolated", 
+            "abandoned"
+        ], 
+        "vulnerable": [
+            "victimised", 
+            "fragile"
+        ]
+    }, 
+    "surprised": {
+        "amazed": [
+            "astonished", 
+            "awe"
+        ], 
+        "confused": [
+            "disillusioned", 
+            "perplexed"
+        ], 
+        "excited": [
+            "eager", 
+            "energetic"
+        ], 
+        "startled": [
+            "shocked", 
+            "dismayed"
+        ]
+    }
+}
